@@ -2,9 +2,9 @@
 
 <br />
 
-- 👋 Hi, I’m @fkvasir
-- 👀 I’m interested in Python projects...
-- 🌱 I’m currently learning Python while going to college...
+- 👋 @fkvasir
+- 👀 interested in Python projects
+- 🌱 currently learning Python while also going to college😂
 
 <br />
 
