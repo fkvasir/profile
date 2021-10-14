@@ -4,7 +4,7 @@
 
 - 👋 @fkvasir
 - 👀 interested in Python projects
-- currently learning Python while also going to college😂
+- currently learning Python 💕
 
 <br />
 
