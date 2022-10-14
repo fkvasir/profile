@@ -1,4 +1,4 @@
-### Hello! I'm Fulgent Kvasir E. Lavesores btw
+### Hello! I'm Fulgent Kvasir E. Lavesores 
 
 <br />
 
