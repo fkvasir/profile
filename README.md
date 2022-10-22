@@ -4,7 +4,7 @@
 
 - 👋 @fkvasir
 - 👀 interested in Python projects
-- currently self-teaching study📚📕📖
+- studying📚📕📖
 
 <br />
 
