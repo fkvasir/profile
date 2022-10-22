@@ -1,14 +1,14 @@
-### Hello! I'm Fulgent Kvasir E. Lavesores 
+### Hello! Fulgent Kvasir here!
 
 <br />
 
 - 👋 @fkvasir
 - 👀 interested in Python projects
-- currently learning Python 💕
+- currently self-teaching study📚📕📖
 
 <br />
 
-### Language Currently Learning
+### Currently Learning
 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
